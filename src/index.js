@@ -19,7 +19,7 @@ const routes = {
   "ecr.gogodoge66.eu.org": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.gogodoge66.eu.org": dockerHub,
 };
 
 function routeByHosts(host) {
